@@ -16,6 +16,6 @@ Security Operations divide into nine categories
 
 ## **[Secure-Operations](https://github.com/sherazi1214/Secure-Operations)**: We learn about Secure-Operations
 
-## **[Incidence-Response](https://github.com/sherazi1214/Domin4/edit/main/README.md)**: We learn about Incidence-Response
+## **[Incidence-Response]()**: We learn about Incidence-Response
 
 ## **[Investigations](https://github.com/sherazi1214/Investigations)**: We learn about Investigations
