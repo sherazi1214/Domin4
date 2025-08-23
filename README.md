@@ -18,4 +18,4 @@ Security Operations divide into nine categories
 
 ## **[Incidence-Response](https://github.com/sherazi1214/Incidence-Response)**: We learn about Incidence-Response
 
-## **[Investigations](https://github.com/sherazi1214/Investigations)**: We learn about Investigations
+## **[Investigations](https://github.com/sherazi1214/Data-Sources-/blob/main/README.md)**: We learn about Investigations
